@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|c:\\users\\cdyl2\\onedrive\\documents\\github\\372_proper_stuff\\372fixed\\assets\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|solutionrelative:assets\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|c:\\users\\cdyl2\\onedrive\\documents\\github\\372_proper_stuff\\372fixed\\assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|solutionrelative:assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|c:\\users\\cdyl2\\onedrive\\documents\\github\\372_proper_stuff\\372fixed\\assets\\gogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|solutionrelative:assets\\gogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teleport.cs",
+              "DocumentMoniker": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\Teleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Teleport.cs",
+              "ToolTip": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\Teleport.cs",
+              "RelativeToolTip": "Assets\\Teleport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:16:02.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoGo.cs",
+              "DocumentMoniker": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\GoGo.cs",
+              "RelativeDocumentMoniker": "Assets\\GoGo.cs",
+              "ToolTip": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\GoGo.cs",
+              "RelativeToolTip": "Assets\\GoGo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:11:48.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\EventManager.cs",
+              "ToolTip": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\EventManager.cs",
+              "RelativeToolTip": "Assets\\EventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:11:23.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

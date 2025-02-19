@@ -17,7 +17,9 @@ public class EventManager : MonoBehaviour
    
    public event HELP OnHELP;
    public delegate void HELP(float f);
-   
+
+    public event EventHandler pushIT;
+
    
    
     // Update is called once per frame
@@ -30,6 +32,7 @@ public class EventManager : MonoBehaviour
         		
         	}
         	OnHELP?.Invoke(5.5f);
+            pushIT?.Invoke(this, new TeleEvent { teleCount = teleCount});
         	//Teleport?.Invoke(this, EventArgs.Empty); == shorthand
         }
     }

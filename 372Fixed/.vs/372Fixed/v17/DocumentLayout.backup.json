@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\assets\\scripts\\design scripts\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design scripts\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|c:\\users\\cdyl2\\onedrive\\documents\\github\\372_proper_stuff\\372fixed\\assets\\scripts\\design scripts\\creditcardfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design scripts\\creditcardfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|c:\\users\\cdyl2\\onedrive\\documents\\github\\372_proper_stuff\\372fixed\\assets\\scripts\\design scripts\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design scripts\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|c:\\users\\cdyl2\\onedrive\\documents\\github\\372_proper_stuff\\372fixed\\assets\\scripts\\design scripts\\programex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\assets\\scripts\\design scripts\\programex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC22906-2D01-E6E5-BC98-6EBA323051BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design scripts\\programex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\Scripts\\Design Scripts\\Logger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Design Scripts\\Logger.cs",
               "ToolTip": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\Scripts\\Design Scripts\\Logger.cs",
               "RelativeToolTip": "Assets\\Scripts\\Design Scripts\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T03:17:15.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CreditCardFactory.cs",
               "DocumentMoniker": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\Scripts\\Design Scripts\\CreditCardFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Design Scripts\\CreditCardFactory.cs",
               "ToolTip": "C:\\Users\\cdyl2\\OneDrive\\Documents\\GitHub\\372_Proper_Stuff\\372Fixed\\Assets\\Scripts\\Design Scripts\\CreditCardFactory.cs",
               "RelativeToolTip": "Assets\\Scripts\\Design Scripts\\CreditCardFactory.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAMwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwBMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T03:14:17.954Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Design Scripts\\ProgramEX.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAIAwwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:04:32.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:04:32.749Z"
             },
             {
               "$type": "Document",
